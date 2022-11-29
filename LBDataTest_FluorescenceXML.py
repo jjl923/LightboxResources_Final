@@ -295,6 +295,6 @@ def clean_data(file_path):
  
 
 
-clean_data(r'C:\Users\twinj\Downloads\LBRandom3.xml')
+clean_data(r'**FluorescenceXMLPath')
 
  
